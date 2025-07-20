@@ -1,11 +1,10 @@
 :root {
-  --green: #145a32; /* CvSU Green */
-  --gold: #f4c542;  /* CvSU Gold */
+  --green: #2E3A59;      /* Deep Slate Blue (refined modern) */
+  --gold: #F4A261;       /* Warm muted orange (less pale than before) */
   --white: #ffffff;
-  --bg: #eafbea;
-  --lightgray: #f8f8f8;
+  --bg: #F7F5F2;         /* Slightly cream-toned background */
+  --lightgray: #EDEDED;  /* Lighter than gray but still defined */
 }
-
 .profile-pic {
   width: 150px;
   height: 150px;
